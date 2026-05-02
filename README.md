@@ -1,10 +1,9 @@
 ## Hi, I'm Rashid ✨
 
-🧑‍💻 A Computer Science Student </br>
-✌️ I create themed desktop websites and apps </br>
-🤖 Building real-world projects and improving daily</br>
+ ✌️ I Creative theamad websites and apps and Building real-world projects and improving daily  </br>
+  
 📫 Open to collaboration and learning opportunities </br>
-📲 My insta (https://www.instagram.com/rashid.iox/)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rashid.iox/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashid-ahmad-4b2a9a3a2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashid6002pc@outlook.com) 
