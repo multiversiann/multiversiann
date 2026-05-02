@@ -1,6 +1,6 @@
 ## Hi, I'm Rashid ✨
 
- ✌️ I Creative theamad websites and apps and Building real-world projects and improving daily  </br>
+ ✌️ I Create themed websites and apps and Building real-world projects and improving daily  </br>
   
 📫 Open to collaboration and learning opportunities </br>
 
